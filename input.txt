@@ -1,0 +1,35 @@
+play
+2
+brute 3 4 5 6 7 8
+brute 3 4 5 6 7 8
+map2.txt
+wsa
+sd
+A 5 8
+B 8 5
+8d
+wwdww
+8d
+wddd
+A check
+A 3 6
+B -1
+3d
+www
+5
+A check
+A 7 4
+B 3 6
+3d
+e
+7d
+w
+b
+b
+B 4 8
+A -1
+8d
+ddd
+e
+e
+5
